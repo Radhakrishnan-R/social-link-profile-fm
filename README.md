@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Radhakrishnan-R/recipe-page-fm/blob/main/index.html)
-- Live Site URL: [[Add live site URL here](https://radhakrishnan-r.github.io/social-link-profile-fm/)
+- Solution URL: (https://github.com/Radhakrishnan-R/recipe-page-fm/blob/main/index.html)
+- Live Site URL: (https://radhakrishnan-r.github.io/social-link-profile-fm/)
 
 ## My process
 
